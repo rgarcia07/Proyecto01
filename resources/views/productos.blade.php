@@ -8,7 +8,9 @@
     <link href="{{ asset('css/products.css') }}" rel="stylesheet" type="text/css">
 </head>
 <body>
-
+<div class="head-tittle" width="100%" height="100px" >
+    <h1 style="color: #FFFFFF">Productos</h1>
+</div>
 
     
 </body>
