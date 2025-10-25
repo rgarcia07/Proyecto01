@@ -46,10 +46,10 @@
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-3xl">
             <h1 class="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
-                Welcome to Our Application
+                TTT
             </h1>
             <p class="mt-6 text-lg leading-8 sm:text-center">
-                This is the welcome page of our Laravel application. Please log in or register to continue.
+                TTT 
             </p>
         </div>
 
