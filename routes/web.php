@@ -8,7 +8,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
+//Route::resource('productos', ProductoController::class);
 
 Route::get('/productos',[ProductosController::class,'index'])->name('productos'); 
 

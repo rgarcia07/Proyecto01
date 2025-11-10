@@ -41,8 +41,6 @@
     <h1 style="color: #FFFFFF">Productos</h1>
 </div>
 
-<div></div>
 
-    
 </body>
 </html>
